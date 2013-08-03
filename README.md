@@ -1,0 +1,4 @@
+akubi-game
+==========
+
+sample coco2cd-osx game ??????
