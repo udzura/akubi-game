@@ -3,7 +3,7 @@
 //  cocos-akubi
 //
 //  Created by Uchio on 2013/08/03.
-//  Copyright Uchio 2013年. All rights reserved.
+//  Copyright Uchio 2013. All rights reserved.
 //
 
 #import "AppDelegate.h"

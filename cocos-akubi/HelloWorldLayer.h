@@ -13,9 +13,15 @@
 // HelloWorldLayer
 @interface HelloWorldLayer : CCLayer
 {
+    CCSprite * udzura;
+    CCSprite * akubi;
+    float speedBoost;
+    CGPoint force;
 }
 
 // returns a CCScene that contains the HelloWorldLayer as the only child
 +(CCScene *) scene;
+
+-(CCSprite *) createInstanceWithFile: (NSString *) name;
 
 @end
